@@ -56,3 +56,6 @@ Paralelamente, el CineCampus necesita manejar el catálogo de intérpretes, rela
 | **Normalización mínima en 3FN**               | Datos repetidos y dependencias no clave.  | Eliminadas redundancias simples, pero persisten dependencias parciales. | Cumple estrictamente 3FN: cada atributo depende solo de la PK de su tabla, sin redundancias. | 25 %        |
 | **Diagrama ER en StarUML**                    | Ausente o ilegible.                       | Diagrama correcto pero con notación inconsistente o poco claro. | Diagrama limpio, legible, notación estándar UML, exportación a imagen y archivo de proyecto. | 25 %        |
 
+## Descarga MDJ
+
+[MDJ](./EjerciciosMySQL.mdj)
